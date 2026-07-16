@@ -1,0 +1,6 @@
+{
+  "name": "ECOS Governance Monitor",
+  "description": "Interactive real-time monitoring and compliance verification dashboard for the ECOS Governance Execution Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
